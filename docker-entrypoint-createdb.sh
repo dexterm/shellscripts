@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# source https://medium.com/@beld_pro/quick-tip-creating-a-postgresql-container-with-default-user-and-password-8bb2adb82342
 #copy this file using COPY command in the Dockerfile
 # COPY docker-entrypoint-createdb.sh  /usr/local/bin/
 # RUN ln -s usr/local/bin/docker-entrypoint.sh / # backwards compat
